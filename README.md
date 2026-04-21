@@ -7,7 +7,7 @@ This site showcases my projects, skills, and experience as a Computer Science un
 
 ## 🌐 Live Website
 
-👉 https://your-username.github.io/portfolio/
+👉https://thearyan92.github.io/Portfolio-1/
 
 ---
 
